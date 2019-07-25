@@ -1,6 +1,6 @@
-### bitcoin-faucet-api
+### bitcoin-proof
 ---
-
+https://github.com/ethers/bitcoin-proof
 
 ```
 ```
